@@ -1,13 +1,13 @@
 __precompile__(true)
 module XLSXrw
 
+    using XLSX
     export
         rowcol2cell,
         XLSXsheetname,
         XLSXreadvar,
         XLSXwritevar
 
-    using XLSX
 
     # Convert "missing" to ""
     function missing2empty(data)
