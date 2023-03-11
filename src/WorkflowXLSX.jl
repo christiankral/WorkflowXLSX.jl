@@ -1,5 +1,5 @@
 __precompile__(true)
-module XLSXrw
+module WorkflowXLSX
 
     using XLSX
     export
