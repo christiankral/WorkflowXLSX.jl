@@ -1,5 +1,5 @@
-name = "XLSXrw"
-uuid = "1fd09be0-6fc5-4b87-a210-c704f03ef69b"
+name = "WorkflowXLSX"
+uuid = "2a1aca37-82bb-4c5b-939f-ac9d327f2328"
 authors = ["Christian Kral <dr.christian.kral@gmail.com>"]
 version = "0.1.0"
 
