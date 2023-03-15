@@ -13,9 +13,9 @@ Pkg.add(url = "https://github.com/christiankral/WorkflowXLSX.jl")
 
 ## Example template
 
-The file `templates/Ohm.jl` includes the application of Ohm's law with voltage and resistance read from the XLSX file `templates/Ohm.xlsx`
+The file `template/Ohm.jl` includes the application of Ohm's law with voltage and resistance read from the XLSX file `template/Ohm.xlsx`
 
-- Place the two file `templates/Ohm.jl` and `templates/Ohm.xlsx` in your working directory, e.g. `/work`.
+- Place the two file `template/Ohm.jl` and `template/Ohm.xlsx` in your working directory, e.g. `/work`.
 - Start Julia
 - Install `WorkflowXLSX` if not yet done (see Installation)
 - Switch to your working directory, e.g. `cd("/work")`
