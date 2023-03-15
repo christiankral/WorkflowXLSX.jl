@@ -1,7 +1,7 @@
 __precompile__(true)
 module WorkflowXLSX
 
-    using XLSX
+    using XLSX, Unitful, Unitful.DefaultSymbols
     export
         rowcol2cell,
         XLSXsheetname,
