@@ -1,7 +1,7 @@
 name = "WorkflowXLSX"
 uuid = "2a1aca37-82bb-4c5b-939f-ac9d327f2328"
 authors = ["Christian Kral <dr.christian.kral@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
