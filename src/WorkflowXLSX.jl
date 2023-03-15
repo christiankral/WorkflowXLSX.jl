@@ -49,7 +49,7 @@ module WorkflowXLSX
         # First sheet = input sheet
         sh = xi[sheets[1]]
         # Read entire sheet and replace "missing" by ""
-        data = missing2empty(shi[:])
+        data = missing2empty(sh[:])
         # Indexes of valid entries
         ind = findall(x->x == var, data)
         if length(ind) == 0
